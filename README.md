@@ -7,7 +7,10 @@
    to Run a app:
    b. streamlit run appname.py
  
-      
+   c. git clone https://github.com/Kausthub8/Tweets-Analysis-Of-US-Airline-Data-And-Dashboard-with-StreamLit.git
+   
+   
+   
    3.  The dataset can be found here:
        
        <https://www.kaggle.com/crowdflower/twitter-airline-sentiment>           
