@@ -8,7 +8,7 @@
    
    b. streamlit run appname.py
  
-   c. git clone https://github.com/Kausthub8/Tweets-Analysis-Of-US-Airline-Data-And-Dashboard-with-StreamLit.git
+   c. git clone https://github.com/Kausthub8/US-Airline-Tweets-Analytic-Dashboard-With-StreamLit.git
    
    
    
