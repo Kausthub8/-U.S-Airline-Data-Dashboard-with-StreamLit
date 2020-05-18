@@ -5,6 +5,7 @@
    a. pip3 install streamlit
    
    to Run a app:
+   
    b. streamlit run appname.py
  
    c. git clone https://github.com/Kausthub8/Tweets-Analysis-Of-US-Airline-Data-And-Dashboard-with-StreamLit.git
