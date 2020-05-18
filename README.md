@@ -16,7 +16,7 @@
     
       3. To run this app in your computer:
       
-      streamlit run <https://raw.githubusercontent.com/Tweets-Analysis-Of-US-Airline-Data-And-Dashboard-with-StreamLit/Das.py>
+      streamlit run <https://raw.githubusercontent.com/Tweets-Analysis-Of-US-Airline-Data-And-Dashboard-with-StreamLit/master/Das.py>
       
       
    4.  The dataset can be found here:
