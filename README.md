@@ -11,8 +11,8 @@
    
    
    
-   3.  The dataset can be found here:
+3.   The dataset can be found here:
        
        <https://www.kaggle.com/crowdflower/twitter-airline-sentiment>           
        
-   4. It consists of whether the sentiment of the tweets in this set was positive, neutral, or negative for six US airlines
+4.   It consists of whether the sentiment of the tweets in this set was positive, neutral, or negative for six US airlines
